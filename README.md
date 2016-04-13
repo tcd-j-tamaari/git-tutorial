@@ -1,3 +1,2 @@
 test
-
-‚æ‚ë‚µ‚­‚Ë
+this is test fore feature-D
